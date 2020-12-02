@@ -1,5 +1,5 @@
 import sys, json, zipfile, audioop, hashlib, wave, io
-
+python sb3tosb2.py [unordered options] sb3path [sb2path]
 sys.setrecursionlimit(4100)
 
 def printWarning(message):
